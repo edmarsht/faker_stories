@@ -16,6 +16,10 @@ function Header() {
 
   return (
     <div className="header">
+<<<<<<< HEAD
+=======
+      {/* <h1>Hey ! That's my Faker person here </h1> */}
+>>>>>>> 4e21e07ecdf1f8239e49dbd6aa7590ef71cc1fe0
       {suggestions.map((profile) => (
         <Story
           key={profile.id}
