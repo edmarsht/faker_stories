@@ -6,9 +6,3 @@
 <br>
 <br>
 <a href="https://faker-story-7bf15.web.app/">Click to see it online 🖥️</a>
-
-
-<br>
-
-<h1>Insta Stories</h1>
-<img src="src/insta.png" alt="insta">
